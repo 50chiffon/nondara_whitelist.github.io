@@ -2,6 +2,7 @@
 ・更新履歴実装
 ・ポスター用画像ファイルの圧縮形式をNoramlQualityからHighQualityへ変更
 ・ポスター用シェーダーをStandardからUnlitへ変更
+・グラスにトッピングされたアレをピックアップ時にトリガー押下で消去できるように変更
 ・ハッシュタグ用オブジェクトをスクリーン式に変更
 ・EnviromentLightingSourceをColorからGradientへ変更
 ・カウンター周辺のLightprobeの追加と位置調整を実施
